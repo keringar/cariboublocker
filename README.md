@@ -1,3 +1,5 @@
+# RESOLVED https://bugs.launchpad.net/ubuntu/+source/gnome-shell/+bug/1723857
+
 # cariboublocker
 Prevents caribou from appearing when you use a touchscreen with the on screen keyboard disabled
 
